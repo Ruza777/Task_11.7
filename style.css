@@ -1,0 +1,13 @@
+table {
+
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 100%;
+ }
+
+ 
+ .them {
+    background-color:rgb(186, 186, 186);
+    text-align: center;
+
+ }
